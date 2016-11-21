@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">FirstApplication</string>
+    <string name="defaultMessage">Greetings appear here...</string>
+    <string name="messageToDisplay">Greetings my friends!</string>
+    <string name="buttonTextSecondActivity">Open Second Activity</string>
+    <string name="buttonTextThirdActivity">Open Third Activity</string>
+
+</resources>

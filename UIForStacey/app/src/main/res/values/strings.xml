@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Messages</string>
+    <string name="hintMessage">Enter a Message</string>
+    <string name="buttonText">Send</string>
+    <string name="title_activity_second">SecondActivity</string>
+
+    <string name="to">To</string>
+    <string name="subject">Subject</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="save">Save</string>
+
+    <string name="alarm">Alarm</string>
+
+    <string name="click_me">Click Me</string>
+    <string name="click_me_too">Click Me Too</string>
+
+
+</resources>
